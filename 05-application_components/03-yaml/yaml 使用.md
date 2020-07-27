@@ -342,6 +342,20 @@ cmake -DCMAKE_INSTALL_PREFIX=/apps/sylar -DYAML_BUILD_SHARED_LIBS=ON ..
 
 3. make && make install
 
+```shell
+# 库安装位置
+-- Up-to-date: /apps/sylar/lib/libyaml-cpp.so.0.6.3
+-- Up-to-date: /apps/sylar/lib/libyaml-cpp.so.0.6
+-- Up-to-date: /apps/sylar/lib/libyaml-cpp.so
+-- Up-to-date: /apps/sylar/include/yaml-cpp
+-- Up-to-date: /apps/sylar/include/yaml-cpp/node
+-- Up-to-date: /apps/sylar/include/yaml-cpp/node/detail
+-- Up-to-date: /apps/sylar/include/yaml-cpp/node/detail/bool_type.h
+-- Up-to-date: /apps/sylar/include/yaml-cpp/node/detail/impl.h
+```
+
+
+
 ## 5.2 使用
 
 ### 5.2.1 基础用法
