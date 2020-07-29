@@ -1,6 +1,6 @@
 ## 学习计划安排
 
-### 7月份
+## 7月份
 
 (1) 第四周安排
 
@@ -9,7 +9,7 @@
 3. 可信考试
 4. 学习笔记总结输出（C++项目、宇视工作、docker、git、shell）
 
-#### 07-28
+### 07-28
 
 1. 解决关于git的困惑
 
@@ -29,7 +29,7 @@
 
 2. 阅读 git 官方文档
 
-#### 07-29
+### 07-29
 
 1. 继续git学习
 
@@ -39,7 +39,45 @@
 
 2. 答辩知识点整理
 
-### 8月份
+```
+1. docker使用
+
+2. gdb调试总结
+3. core文件
+4. io占用分析
+5. linux奔溃问题
+
+6. shell脚本 nohup  2>&1 &  chown   server命令与 /etc/init.d及systemctl关系
+7. shell脚本 $(())  $()   ` `   ${}
+8. 高可靠性集群服务 high  availability cluster server  hacs  vcs  heart beat  suse linux ha
+9. shell解析Yaml文件  xml文件
+
+10 浮动ip
+
+11 csystools函数  execcmd   access函数
+
+```
+
+### 07-30
+
+1. 继续答辩知识点整理
+
+```
+日志系统设计
+
+
+
+```
+
+
+
+### 07-31
+
+1. 进一年工作复盘总结
+
+
+
+## 8月份
 
 (1) 第一周工作安排
 
