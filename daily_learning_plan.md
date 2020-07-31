@@ -49,31 +49,28 @@
 
 6. shell脚本 nohup  2>&1 &  chown   server命令与 /etc/init.d及systemctl关系
 7. shell脚本 $(())  $()   ` `   ${}
-8. 高可靠性集群服务 high  availability cluster server  hacs  vcs  heart beat  suse linux ha
-9. shell解析Yaml文件  xml文件
-
-10 浮动ip
-
-11 csystools函数  execcmd   access函数
-
+8. 高可靠性集群服务  hacs(high  availability cluster server)   vcs    
+suse linux ha(heart beat)
 ```
 
 ### 07-30
 
 1. 继续答辩知识点整理
 
-```
-日志系统设计
-
-
-
-```
-
 
 
 ### 07-31
 
-1. 进一年工作复盘总结
+1. 周五 22：30  - 23：30进一年工作复盘总结
+2. 疑惑知识点整理
+
+```
+1. shell脚本解析xml文件 Yaml文件
+2. linux unzip
+
+3. C++调用shell脚本,并且待会参数  csystools::execcmd(bma)
+4. access函数
+```
 
 
 
@@ -82,3 +79,12 @@
 (1) 第一周工作安排
 
 1. sylar配置系统 p11 - p15节学习
+
+2. 知识点整理
+
+```
+1. 设计一个高性能日志系统需要考虑的问题
+2. 设计一个配置系统需要注意的问题
+3. 日志系统语法总结
+```
+
